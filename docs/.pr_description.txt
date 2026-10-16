@@ -1,0 +1,3 @@
+Adds docs/README.md containing an overview of OctoAcme project management processes and links to the process documents in docs/.
+
+Closes #2
